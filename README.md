@@ -1,7 +1,5 @@
 
 # Grasp Simulation and Data Collection
-**Sebastian Ren SN:23036338**  
-**Yan Pan SN:23158397**  
 
 ---
 
