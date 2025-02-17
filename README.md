@@ -7,7 +7,7 @@ This project demonstrates a simulation of robotic grippers using **PyBullet**. T
 <div align="center">
     <img src="pic/F3_Dog_Demo.png" alt="F3_Dog_FrontCover" width="200px" height="200px">
     <img src="pic/PR2_demo.png" alt="PR2_FrontCover" width="250px" height="200px">
-    <img src="pic/Terminal_interface_demo.png" alt="Terminal_FrontCover" width="300px" height="200px">
+    <img src="pic/Terminal_interface_demo.png" alt="Terminal_FrontCover" width="350px" height="200px">
 </div>
 
 
